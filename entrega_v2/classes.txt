@@ -1,0 +1,14 @@
+# Orden oficial de las 12 clases. NO reordenar: los ids YOLO salen de este archivo.
+# Una ficha es blanca (b) si el simbolo es solo contorno, negra (n) si esta relleno.
+peon_b
+torre_b
+caballo_b
+alfil_b
+dama_b
+rey_b
+peon_n
+torre_n
+caballo_n
+alfil_n
+dama_n
+rey_n

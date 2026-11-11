@@ -1,0 +1,9 @@
+# ajedrez-v2 — dependencias para correr el detector y el conector de juego
+# Instalas con:  pip install -r requirements.txt
+ultralytics>=8.4
+opencv-python>=4.10
+numpy>=1.26
+requests>=2.31
+python-chess>=1.10
+torchvision>=0.20
+PyQt6>=6.6
