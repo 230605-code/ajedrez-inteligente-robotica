@@ -1,7 +1,6 @@
 # ajedrez-v2 — Detector de piezas con fichas nuevas, cámara mejorada y clasificador por casilla
 
 Proyecto nuevo desde cero, aprovechando las lecciones de `ajedrez-yolo` (v1).
-No se toca v1: queda como referencia y línea base para comparar.
 
 ## Qué cambió respecto a v1
 
